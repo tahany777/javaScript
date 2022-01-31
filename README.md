@@ -6,7 +6,7 @@
 
 * Redeclare (yes)
 * Access Before Declare => undefined
-* Variable Scope Drama [] ()
+* Variable Scope Drama [Added to window object] ()
 * Block or Function Scope
 
 ### Let
@@ -23,3 +23,4 @@
 * Variable Scope Drama [] ()
 * Block or Function Scope
 
+ 
