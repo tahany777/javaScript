@@ -11,15 +11,15 @@
 
 ### Let
 
-* Redeclare (No => Error)
-* Access Before Declare => Error
+* Redeclare (No => Error Identifier 'b' has already been declared)
+* Access Before Declare => Error Cannot access variable before initialization
 * Variable Scope Drama [] ()
 * Block or Function Scope
 
 ### Const
 
-* Redeclare (No => Error)
-* Access Before Declare => Error
+* Redeclare (No => Error Identifier 'b' has already been declared)
+* Access Before Declare => Error Cannot access variable before initialization
 * Variable Scope Drama [] ()
 * Block or Function Scope
 
