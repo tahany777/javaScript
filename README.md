@@ -23,3 +23,9 @@
 * Variable Scope Drama [] ()
 * Block or Function Scope
 
+---
+
+### String Syntax + character Escape sequences
+
+* \ Escape + line continue
+* \n

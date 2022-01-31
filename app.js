@@ -16,3 +16,24 @@
 // var a1 = 2;
 // let a1 = 2;
 // const a1 = 2;
+
+//3- variable scope
+
+// var a3 = 1;
+let a3 = 1;
+// window.a3
+
+
+// String Syntax + character Escape sequences
+
+//escape
+
+console.log("Tahany 'Ali'");
+console.log('Tahany "Ali"');
+console.log('Tahany \'Ali\'');
+console.log("Tahany \"Ali\"");
+console.log('Tahany \\ Ali');
+console.log("Tahany \
+Ali\ ");//print in the same line(line continue)
+console.log("Tahany \n Ali");//new line
+
