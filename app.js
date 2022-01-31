@@ -16,3 +16,9 @@
 // var a1 = 2;
 // let a1 = 2;
 // const a1 = 2;
+
+//3- variable scope
+
+// var a3 = 1;
+let a3 = 1;
+// window.a3
